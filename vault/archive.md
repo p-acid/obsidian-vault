@@ -5,6 +5,7 @@
 - [x] [LogRocket : Types vs. interfaces in TypeScript](https://blog.logrocket.com/types-vs-interfaces-typescript/) ✅ 2024-01-14
 
 ### 이력서 관련
+
 - [Resume.flow](https://lnkd.in/gKWghu68)
 - [Resume : Max Kim](https://github.com/MaxKim-J/RESUME)
 	- Module Federation 컨퍼런스 영상을 보면서 찾게 된 발표자님의 이력서
