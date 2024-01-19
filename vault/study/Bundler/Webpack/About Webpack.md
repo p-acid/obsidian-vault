@@ -95,13 +95,3 @@ module.exports = {
 ## [Environment](https://webpack.kr/concepts/#environment)
 
 > Webpack 5는 Node.js 버전 10.13.0 이상에서 실행됩니다.
-
-
-# Module Federation
-
-## Motivation
-
->여러 개의 개별 빌드가 단일 애플리케이션을 형성해야 합니다. 이러한 개별 빌드는 컨테이너처럼 작동하며, 빌드 간에 코드를 노출하고 소비하여 단일 통합 애플리케이션을 생성할 수 있습니다.
->
->이것은 종종 [[Micro-Frontends]]라고 알려져 있지만, 그것에만 국한되지는 않습니다.
-

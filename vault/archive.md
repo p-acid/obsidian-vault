@@ -4,17 +4,6 @@
 - [x] [휴먼스케이프 기술 블로그 : Type vs Interface, 언제 어떻게?](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50) ✅ 2024-01-14
 - [x] [LogRocket : Types vs. interfaces in TypeScript](https://blog.logrocket.com/types-vs-interfaces-typescript/) ✅ 2024-01-14
 
-### 이력서 관련
-
-- [Resume.flow](https://lnkd.in/gKWghu68)
-- [Resume : Max Kim](https://github.com/MaxKim-J/RESUME)
-	- Module Federation 컨퍼런스 영상을 보면서 찾게 된 발표자님의 이력서
-	- 무엇을 위해 어떤 것을 하였는지 정리를 깔끔하게 잘했다.
-
-### 번들러 제대로 공부하기
-
-- 캡틴판교 인프런 강의
-
 ### 정리가 안 된 링크
 
 - [HTTP 완벽 가이드 | 데이빗 고울리 - 교보문고](https://product.kyobobook.co.kr/detail/S000001033001)
